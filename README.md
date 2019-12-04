@@ -1,6 +1,5 @@
 # Git Blog App
 
-I built this blog app as a way to learn Git and & GitHub. Going forward I'll keep it up to date with my current information and occasionally write blog posts.
-
+I built this blog app as a way to learn Git and & GitHub. I will be using this site to blog posts.
+post any new working app built and deployed.
 Check back soon!
-<img src="screenshot.png" alt="Blog Screenshot">
