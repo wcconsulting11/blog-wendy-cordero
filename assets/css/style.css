@@ -156,6 +156,7 @@ main {
   grid-template-rows: 4span;
   grid-auto-columns: 3span;
 }
+
 .about-cert{
   float: left;
   padding-top: 5px;
